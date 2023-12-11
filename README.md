@@ -16,3 +16,5 @@ In short, everything you will need to translate the game to your language is in 
 To get all the base language files (English), you just need the "**data_en_us.zip**" file and extract it anywhere.
 
 To translate the game, you just need "**VoidTranslator**" and select the folder with the language files.
+
+I want to thank specially to "**mono**" (@mono21400 in discord), who has helped me solving all the problems that the tools had and improving them notably.
